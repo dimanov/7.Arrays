@@ -7,8 +7,8 @@
     <ProjectGuid>{233F0124-CC0E-4E03-A077-D476A73BE194}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AllocateArray</RootNamespace>
-    <AssemblyName>AllocateArray</AssemblyName>
+    <RootNamespace>01. AllocateArray</RootNamespace>
+    <AssemblyName>01. AllocateArray</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
