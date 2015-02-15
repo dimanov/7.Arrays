@@ -1,1 +1,6 @@
 C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\08. MaximalSum\bin\Debug\_08.MaximalSum.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\08. MaximalSum\bin\Debug\_08.MaximalSum.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\08. MaximalSum\bin\Debug\_08.MaximalSum.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\08. MaximalSum\obj\Debug\08. MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\08. MaximalSum\obj\Debug\_08.MaximalSum.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\08. MaximalSum\obj\Debug\_08.MaximalSum.pdb
