@@ -10,11 +10,11 @@ class MaximalSum
 {
     static void Main()
     {
-        //Console.Write("Please enter an integer N! \nn= ");
-        //int n = int.Parse(Console.ReadLine());
+        Console.Write("Please enter an integer N! \nn= ");
+        int n = int.Parse(Console.ReadLine());
 
-        //int[] myArray = ReadArray(n);
-        int[] myArray = { 1, -3, 99, 5, -3, -7, -100 };
+        int[] myArray = ReadArray(n);
+        //int[] myArray = { 1, -3, 99, 5, -3, -7, -100 };
 
         if(myArray.Min() >= 0)
         {
