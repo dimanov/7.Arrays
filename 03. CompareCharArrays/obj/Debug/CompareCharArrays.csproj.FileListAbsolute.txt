@@ -1,0 +1,12 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\03. CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\03. CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\03. CompareCharArrays\obj\Debug\CompareCharArrays.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\03. CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\03. CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\03. CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache

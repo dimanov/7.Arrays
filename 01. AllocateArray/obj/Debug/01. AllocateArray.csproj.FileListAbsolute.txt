@@ -1,0 +1,15 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\AllocateArray\bin\Debug\AllocateArray.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\AllocateArray\obj\Debug\AllocateArray.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\AllocateArray\obj\Debug\AllocateArray.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\AllocateArray\bin\Debug\AllocateArray.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\AllocateArray\bin\Debug\AllocateArray.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\AllocateArray\obj\Debug\01. AllocateArray.csprojResolveAssemblyReference.cache
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\7.Arrays\AllocateArray\bin\Debug\AllocateArray.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\7.Arrays\AllocateArray\obj\Debug\AllocateArray.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\7.Arrays\AllocateArray\obj\Debug\AllocateArray.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\01. AllocateArray\bin\Debug\01. AllocateArray.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\01. AllocateArray\bin\Debug\01. AllocateArray.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\01. AllocateArray\bin\Debug\01. AllocateArray.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\01. AllocateArray\obj\Debug\01. AllocateArray.csprojResolveAssemblyReference.cache
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\01. AllocateArray\obj\Debug\01. AllocateArray.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\01. AllocateArray\obj\Debug\01. AllocateArray.pdb

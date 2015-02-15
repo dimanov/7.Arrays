@@ -1,0 +1,11 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\02. Compare arrays\obj\Debug\02. Compare arrays.csprojResolveAssemblyReference.cache
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.pdb

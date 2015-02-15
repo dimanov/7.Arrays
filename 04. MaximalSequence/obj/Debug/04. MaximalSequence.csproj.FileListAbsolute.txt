@@ -1,0 +1,9 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalSequence\obj\Debug\04. MaximalSequence.csprojResolveAssemblyReference.cache
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\04. MaximalSequence\bin\Debug\MaximalSequence.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\04. MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\04. MaximalSequence\obj\Debug\MaximalSequence.pdb

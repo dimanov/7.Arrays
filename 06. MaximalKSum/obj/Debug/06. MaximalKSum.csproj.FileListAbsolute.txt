@@ -1,0 +1,6 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalKSum\obj\Debug\MaximalKSum.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalKSum\obj\Debug\MaximalKSum.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\06. MaximalKSum\bin\Debug\MaximalKSum.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\06. MaximalKSum\obj\Debug\MaximalKSum.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\06. MaximalKSum\obj\Debug\MaximalKSum.pdb

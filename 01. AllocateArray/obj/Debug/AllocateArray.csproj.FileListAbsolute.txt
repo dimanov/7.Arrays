@@ -1,0 +1,1 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\Arrays\AllocateArray\bin\Debug\AllocateArray.exe.config

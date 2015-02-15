@@ -1,0 +1,6 @@
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\07. Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
